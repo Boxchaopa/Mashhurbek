@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background: blue;
+    color: white;w: 30%;
+    height: 300px;
+}
+table{
+    width: 80%;
+    margin:0 auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+thead td{
+    background: transparent;
+    border: 1px solid yellow;
+}
+
+
+tbody td {
+    background:#1280b3 ;
+    border: 1px solid yellow ;
+}
+.title {
+    text-align: center;
+    font-size: 14px;
+}
+.wrapper{
+    display: flex;
+    gap: 5px;
+}
+.ntg{
+ 
+    text-align: center;
+    
+}
+
+.button{
+    background: yellow;
+    border-radius: 25px;
+}
+
+p{
+    text-align: center;
+}
